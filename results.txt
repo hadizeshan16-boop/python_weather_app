@@ -1,8 +1,0 @@
-A-Level Results
-a: 76
-b: 79
-c: 80
-d: 81
-
-Average: 79.00
-Final Grade: A*
